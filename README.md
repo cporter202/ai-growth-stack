@@ -7,17 +7,6 @@
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="STATUS" />
 <img src="https://img.shields.io/badge/UPDATED-Regularly-brightgreen?style=for-the-badge&labelColor=2d2d2d" alt="UPDATED" />
 
-<!-- AIWITHCHRIS-BANNER-START -->
-<p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
-</p>
-<!-- AIWITHCHRIS-BANNER-END -->
 
 ![API Growth Stack](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1766341442596-Generated%20Image%20December%2021%2C%202025%20-%201_23PM.jpeg?alt=media&token=4d4fc0e9-9538-4b76-acee-b74c39fa8c42)
 
@@ -312,3 +301,16 @@ For questions, support, or feature requests:
 **Built for developers, marketers, and founders who want real growth tools — not fluff.**
 
 *Last updated: December 2024*
+
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
